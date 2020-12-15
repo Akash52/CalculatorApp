@@ -7,6 +7,7 @@
     android:layout_height="wrap_content">
 
     <TextView
+        android:id="@+id/tvInput"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="30sp"
@@ -16,6 +17,7 @@
         android:padding="10dp"
         android:text="23123"/>
     <TextView
+        android:id="@+id/tvOutput"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="60sp"
